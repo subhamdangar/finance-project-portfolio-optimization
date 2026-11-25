@@ -1,0 +1,18 @@
+[project]
+name = "finance-nine-stock-project"
+version = "0.1.0"
+requires-python = ">=3.12,<3.15"
+dependencies = [
+    "numpy",
+    "pandas>=2.2,<3",
+    "scipy",
+    "matplotlib",
+    "plotly>=5.15",
+    "streamlit>=1.35",
+    "ipykernel",
+    "jinja2",
+    "seaborn>=0.13.2",
+    "ipywidgets>=8.1.9",
+    "openpyxl>=3.1.5",
+    "pip>=26.3",
+]

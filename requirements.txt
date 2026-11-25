@@ -1,0 +1,11 @@
+numpy
+pandas>=2.2,<3
+scipy
+matplotlib
+seaborn
+plotly
+streamlit
+ipykernel
+ipywidgets
+openpyxl
+pip
