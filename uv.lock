@@ -368,7 +368,7 @@ wheels = [
 ]
 
 [[package]]
-name = "finance-nine-stock-project"
+name = "finance-project"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
